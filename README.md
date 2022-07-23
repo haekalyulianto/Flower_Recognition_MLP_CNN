@@ -1,2 +1,2 @@
-# Flower_Recognition_MLP_CNN
-Flower recognition using Multilayer Perceptron from scratch and Convolutional Neural Network with TensorFlow for machine learning class final exam
+# Flower Recognition
+Flower Recognition using Multilayer Perceptron and Convolutional Neural Network for Machine Learning Class
